@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto";
+}
+
+header {
+    display: flex;
+    position: relative;
+    margin-top: 42px;
+    margin-left: 100px;
+}
+
+header a:hover {
+    background-color: #EBDBD0;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    font-family: "Roboto";
+    font-size: 18px;
+    color: #000;
+}
+
+ul {
+    list-style: none;
+    width: 500px;
+    display: inline;
+
+}
+
+h1 {
+    display: inline-block;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    text-align: center;
+
+}
+
+li {
+    display: inline;
+    padding: 10px;
+}
+
+.icons {
+    display: inline-block;
+    width: 30%;
+    text-align: right;
+}
+
+.logo {
+    width: 30%;
+    text-align: center;
+}
+
+.nav {
+    width: 30%;
+    text-align: left;
+}
+
+body {
+    margin: 0;
+}
+        img {
+            max-width: 100%;
+            width: auto;
+        }
+
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            max-width: 950px;
+            margin: 60px auto;
+        }
+
+      .container div {
+            padding: 15px;
+        }
+    p{
+        font-size: 18px;
+        line-height: 210.69%;
+    }
+    c33 {
+            width: 30%;
+            text-align: center;
+        }
+    p{
+        font-size: 18px;
+        line-height: 210.69%;
+    }
+        .c50 {
+            width:50%;
+          
+        }
+    .c100{
+        width: 100%;
+    }
+
+.footer {
+    position:relative;
+    height: 170px;
+    width: 100%;
+    background-color: #EBDBD0;
+    text-align: center;
+    margin:0px;
+
+}
+
+h4 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    padding: 20px;
+
+}
+
+.footer li {
+    display: inline-block;
+    padding: 10px;
+}
+
+
+
+.socialmedia {
+    text-align: center;
+} 
+
+
+
